@@ -22,6 +22,6 @@ But the rainbow is still full of colors.
 And FIME is green.
 
 FIME is dark, 
-But the ServoClass is the light in the dark
+But the Servo-Class is the light in the dark
 
 The end
